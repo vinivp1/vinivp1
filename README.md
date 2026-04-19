@@ -1,10 +1,14 @@
 # Vinicius Valentim Pereira
 
-I'm an begginer developer looking to improve my technical and interpersonal skills. I am currently studying Computer Engineering at the University of Sorocaba (UNISO).
-My first contact with programming was as a teenager, in a game development class, where I learned to program with blocks. Later, I was introduced to Python and then JavaScript. My interest in technology deepened during the technical course in Mechatronics, from which I graduated in 2021 and continues to this day.
-In my free time I like to play sports, go to the gym and listen to or play music.
-I am currently looking for an internship in Backend development, or a junior position where I can apply my academic background, gain practical experience and contribute to innovative technology projects. I am motivated to learn, evolve and add value in a dynamic and challenging environment.
+Hi there! 👋
 
+I am a Computer Engineering student at the UniFacens and currently working as an intern in the DMD sector at Huawei. My tech journey began with a technical degree in Mechatronics (2021) and has since evolved into a strong focus on backend development and process automation.
+
+💼 **What I do:** At Huawei, I focus on developing RPA (Robotic Process Automation) solutions and maintaining internal systems. I love building tools that optimize complex workflows and improve operational efficiency. 
+
+🎯 **Current Goals:** I am actively looking for **Junior Backend positions**, particularly those focused on **Automations or Python development**. I am eager to apply my corporate experience and problem-solving skills to innovative technology projects.
+
+⚡ **Outside of coding:** In my free time, I enjoy playing sports, working out at the gym, and listening to or playing music.
 
 ## Contact me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvalentimpereira/)
@@ -14,6 +18,7 @@ I am currently looking for an internship in Backend development, or a junior pos
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -21,13 +26,12 @@ I am currently looking for an internship in Backend development, or a junior pos
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Data Bases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 ## Tecnologies
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
